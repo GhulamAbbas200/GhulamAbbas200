@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Abbas 👋
 
-<!--
-**GhulamAbbas200/GhulamAbbas200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Aspiring Software Engineer | Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a Software Engineering student with a strong interest in software development, problem-solving, and building practical projects.  
+I enjoy learning how things work under the hood and applying concepts to real-world applications.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** C#, Python, JavaScript, SQL  
+- **Concepts:** OOP, Data Structures & Algorithms, Databases  
+- **Tools & Frameworks:**  
+  - .NET / Windows Forms  
+  - MySQL / SQL Server  
+  - Git & GitHub  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/ghulam-abbas-khan/]
+
+---
+
+⭐ *Feel free to explore my repositories and follow my learning journey!*
