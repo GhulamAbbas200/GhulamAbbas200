@@ -17,8 +17,9 @@ I enjoy learning how things work under the hood and applying concepts to real-wo
 - **Languages:** C#, Python, JavaScript, SQL  
 - **Concepts:** OOP, Data Structures & Algorithms, Databases  
 - **Tools & Frameworks:**  
-  - .NET / Windows Forms  
-  - MySQL / SQL Server  
+  - .NET 
+  - SQL Server
+  - React  
   - Git & GitHub  
 
 ---
