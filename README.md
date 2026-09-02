@@ -28,8 +28,6 @@ I enjoy learning how things work under the hood and applying concepts to real-wo
 
 -[LinkedIn:](https://www.linkedin.com/in/ghulam-abbas-khan/)
 
-
--[Gmail:](ghulamabbas20054@gmail.com) 
 ---
 
 ⭐ *Feel free to explore my repositories and follow my learning journey!*
