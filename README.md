@@ -27,6 +27,8 @@ I enjoy learning how things work under the hood and applying concepts to real-wo
 ## 📫 Connect With Me
 
 -[LinkedIn:](https://www.linkedin.com/in/ghulam-abbas-khan/)
+
+
 -[Gmail:](ghulamabbas20054@gmail.com) 
 ---
 
